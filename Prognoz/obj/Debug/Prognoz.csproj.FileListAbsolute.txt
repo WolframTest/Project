@@ -1,0 +1,9 @@
+C:\MyFolder\С#\Prognoz\Prognoz\Prognoz\bin\Debug\Prognoz.exe.config
+C:\MyFolder\С#\Prognoz\Prognoz\Prognoz\bin\Debug\Prognoz.exe
+C:\MyFolder\С#\Prognoz\Prognoz\Prognoz\bin\Debug\Prognoz.pdb
+C:\MyFolder\С#\Prognoz\Prognoz\Prognoz\obj\Debug\Prognoz.csprojResolveAssemblyReference.cache
+C:\MyFolder\С#\Prognoz\Prognoz\Prognoz\obj\Debug\Prognoz.Form1.resources
+C:\MyFolder\С#\Prognoz\Prognoz\Prognoz\obj\Debug\Prognoz.Properties.Resources.resources
+C:\MyFolder\С#\Prognoz\Prognoz\Prognoz\obj\Debug\Prognoz.csproj.GenerateResource.Cache
+C:\MyFolder\С#\Prognoz\Prognoz\Prognoz\obj\Debug\Prognoz.exe
+C:\MyFolder\С#\Prognoz\Prognoz\Prognoz\obj\Debug\Prognoz.pdb
