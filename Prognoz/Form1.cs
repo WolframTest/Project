@@ -13,6 +13,7 @@ namespace Prognoz
 {
     public partial class Form1 : Form
     {
+        //01
         private List<double> X;    // выборка с просмотрами
         private List<double> Y;    // выборка с переходами
         private List<double> X1;    // выборка со средними просмотрами
